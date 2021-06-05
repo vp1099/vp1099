@@ -3,7 +3,7 @@
 ![](https://komarev.com/ghpvc/?username=vp1099)
 
 
-[![Vishnu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vp1099)](https://github.com/vp1099/github-readme-stats)
+[![Vishnu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vp1099)](https://github.com/vp1099)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vp1099&theme=tokyonight)
 
